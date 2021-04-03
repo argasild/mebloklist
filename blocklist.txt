@@ -131,7 +131,6 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 redshell.io
 0.0.0.0 api.redshell.io
-0.0.0.0 api.adguard.com
 0.0.0.0 coinhive.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 ssw.live.com
