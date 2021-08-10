@@ -112,11 +112,11 @@
 
 
 
-
-
-
-
-
+0.0.0.0 support.msn.microsoft.akadns.net
+0.0.0.0 t.urs.microsoft.com.nsatc.net
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
+0.0.0.0 telemetry.appex.search.prod.ms.akadns.net
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 udc.msn.com
