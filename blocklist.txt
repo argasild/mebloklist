@@ -750,3 +750,4 @@
 127.0.0.1 www.bignox.com
 127.0.0.1 www.yeshen.com
 127.0.0.1 www.yeshen.com.w.kunlungr.com
+127.0.0.1 api.noxinfluencer.com
